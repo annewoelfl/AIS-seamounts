@@ -6,7 +6,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 - **Source 1**: [Kaggle - AI In Maritime Industsy]
 
-  - **[[Link](https://www.kaggle.com/code/eminserkanerdonmez/ai-in-maritime-industsy/notebook)]()**
+  - **[[Link](https://www.kaggle.com/code/eminserkanerdonmez/ai-in-maritime-industsy/notebook)](https://www.kaggle.com/code/eminserkanerdonmez/ai-in-maritime-industsy/notebook)**
   - **Objective**: Kaggle - AI In Maritime Industsy
   - **Methods**:
   - **Outcomes**:
@@ -14,7 +14,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 - **Source 2**: [AIS database]
 
-  - **[[Link](http://web.ais.dk/aisdata/)]()**
+  - **[[Link](http://web.ais.dk/aisdata/)](http://web.ais.dk/aisdata/)**
   - **Objective**: Index of /aisdata
   - **Methods**:
   - **Outcomes**:
